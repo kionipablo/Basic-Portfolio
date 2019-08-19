@@ -1,0 +1,21 @@
+.name{
+    background: #4aaaa5;
+}
+
+img.resize{
+    height: 200px;
+    width: 225px;
+}
+
+.box{
+    border: 1px;
+    color: #777777;
+
+}
+
+.head{
+    font-family: 'Georgia', Times,'Times New Roman', serif;
+    background: #ffffff;
+    border: 1px #cccccc;
+
+}
