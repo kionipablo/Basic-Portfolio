@@ -142,16 +142,17 @@ h3{
 }
 
 /*Contact*/
-input [type=text], textarea{
-    width:100%;
+/*Having issues expanding the width of the text box*/
+input [type=text], 
+textarea{
+    width: 100%;
     padding: 10px;
     border: 1px solid #777777;
     box-sizing: border-box;
     margin-top:6px;
     margin-bottom: 15px;
-    resize: vertical;
 }
-input [type=Submit] {
+input [type="Submit"]{
     background-color: #8eaebd;
     color: white;
     padding:8px 16px;
